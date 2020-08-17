@@ -1,7 +1,7 @@
 ### Who am I
 My name is Oleg, I'm located in Moscow/RU. Deal with Deep Learning, Computer Vision and Machine learning. Started carrier as Telecommunications engineer, worked a lot with statistics of cellular networks, then came to data analysis and development area. 
 
-[View full CV](https://2326wz.github.io/About/)
+[View full CV](https://github.com/2326wz/About/blob/master/CV/CV%20Oleg%20Ryakhovsky.pdf)
 
 ### What I do
 - Addicted to ml4sg ideas, collaborate at Lacmus DL project https://lacmus-foundation.github.io 
