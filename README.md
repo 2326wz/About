@@ -1,5 +1,5 @@
 ### Who am I
-My name is Oleg, I'm located in Moscow/RU. Deal with Deep Learning, Computer Vision and Machine learning. Started carrier as Telecommunications engineer, worked a lot with statistics of cellular networks, then came to data analysis and development area. 
+Now work as analyst in telcecom company. Also deal with Deep Learning, Computer Vision and Machine learning. Started carrier as Telecommunications engineer, worked a lot with statistics of cellular networks, then came to data analysis and development area. 
 
 [View full CV](https://github.com/2326wz/About/blob/master/CV/CV%20Oleg%20Ryakhovsky.pdf)
 
